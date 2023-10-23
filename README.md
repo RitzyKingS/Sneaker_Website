@@ -34,6 +34,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 **[Live Demo](https://ritzykings.github.io/Sneaker_Website/shop.html)** | **[View on GitHub](#github-link)**
 
-![Sneaker Website](sneaker.png)
+![Sneaker Website](preview.png)
 
 *Thank you for your interest in the Sneaker Website project. Please check back for updates as we continue to develop and improve this exciting project.*
