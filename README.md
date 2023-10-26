@@ -3,7 +3,7 @@
 ![Sneaker Website](sneaker.png)
 
 <h2> Website: 
-<a href="https://ritzykings.github.io/Sneaker_Website/shop.html">Visit Now🚀</a>
+<a href="https://ritzykings.github.io/Sneaker_Website/index.html">Visit Now🚀</a>
 </h2> 
 
 **Please note that our website is a work in progress**, and while not all features may be available just yet, we're thrilled to offer you a glimpse of what's to come.
